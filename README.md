@@ -42,12 +42,16 @@ Para la creación de la figura 2 usamos las librerías de <A HREF="https://altai
 
 <p align="center">
   <img width="850" height="600" src="./UnitChartEx2.svg">
+  <em>Figura 2. Estudiantes de ingenieria 2015 vs 2022</em>
 </p>
 
 
 ### Tercera imagen
 Un gráfico de cascada es una forma de visualización de datos que ayuda a comprender el efecto acumulativo al introducir valores positivos o negativos de manera secuencial.
 
+Para esta visualización se usó el segundo dataset. Se extrajo la evolución del gasto por hogar para la gasolina. En la creación de la figura 3 usamos las librerías de <A HREF="https://plotly.com/python/">plotly</A>
+
 <p align="center">
   <img width="1000" height="800" src="./WaterFallEx3.svg">
+  <em>Figura 3. Evolución anual del gasto medio (€) por hogar para la Gasolina</em>
 </p>
