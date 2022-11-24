@@ -8,10 +8,11 @@ Código y visualizaciones creadas para la resolución de la PEC2 de la asignatur
 En esta actividad el estudiante  tendrá que crear tres pequeñas visualizaciones usando técnicas diferentes que le serán asignadas. Cada estudiante tendrá que escoger unos datos idóneos para cada una de las técnicas propuestas y decidir con qué software las crea
 
 <b>Visualizaciones</b>   
--Bar chart
--Waterfall Chart
--Isotype & Unit charts
-
+-Bar chart    
+-Isotype & Unit charts    
+-Waterfall Chart      
+ 
+ 
 <b>Solución</b>
 Para la creacion de las visualizaciones se han seleccionados 2 dataset pertenecientes a de <A HREF="https://datos.gob.es/es/">datos abierta del gobierno </A>:
 - <A HREF="https://datos.gob.es/es/catalogo/e05073401-estudiantes-de-nuevo-ingreso-en-grado-por-sexo-grupo-de-edad-y-rama-de-ensenanza">Estudiantes de nuevo ingreso en Grado por sexo, grupo de edad y rama de enseñanza</A>
@@ -19,14 +20,22 @@ Para la creacion de las visualizaciones se han seleccionados 2 dataset perteneci
 
 La descarga, procesamiento y visualizacion de los datasets se hizo usando python, el codigo para la creacion de las 3 visualizaciones se puede encontrar <A HREF="./PEC_Visualizacion de datos.ipynb">aqui</A>
 
-### Primera imagen
+### Primera imagen   
+Un diagrama de barras, es una forma de representar gráficamente un conjunto de datos o valores mediante barras rectangulares de longitud proporcional a los valores representados. Los gráficos de barras pueden ser usados para comparar cantidades de una variable en diferentes momentos o diferentes variables para el mismo momento
+
+Para esta visualizacion usamos el primer dataset, donde obtenemos el numero de nuevos ingresos a carreras cientificas en España a lo largo de los ultimos 6 años. La comparacion se ve que para las 3 principales ramas, donde siempre hay mas profesionales es en el area de la salud con 82.720 ingresos en el 2022 (los datos estan en escala 10<sup>3</sup>).
+
+Para la creacion del data set usamos las librerias de <A HREF="https://plotnine.readthedocs.io/en/stable/#">plotnine</A>, que proporciona una sintaxis parecida a R.
+
 <p align="center">
   <img width="1000" height="800" src="./BarplotEx1.svg">
-  <em>""</em>
+  <em>"Ingresos anuales de estudiantes a grados cientificos en España"</em>
 </p>
 
 
-### Segunda imagen
+### Segunda imagen   
+Unit charts/Isotype, los diagramas de isotipos son una combinación de lenguaje visual que enfatiza los datos cuantitativos con un simbolismo que a menudo se asocia con imágenes descriptivas.
+
 
 <p align="center">
   <img width="850" height="600" src="./UnitChartEx2.svg">
@@ -34,6 +43,7 @@ La descarga, procesamiento y visualizacion de los datasets se hizo usando python
 
 
 ### Tercera imagen
+Un gráfico de cascada es una forma de visualización de datos que ayuda a comprender el efecto acumulativo al introducir valores positivos o negativos de manera secuencial.
 
 <p align="center">
   <img width="1000" height="800" src="./WaterFallEx3.svg">
