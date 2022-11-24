@@ -39,6 +39,7 @@ Para esta visualización, usamos también el primer dataset. Donde se extrajo el
 
 Para la creación de la figura 2 usamos las librerías de <A HREF="https://altair-viz.github.io/index.html">Vega-Altair</A>
 
+
 <p align="center">
   <img width="850" height="600" src="./UnitChartEx2.svg">
   <em>Figura 2. Estudiantes de ingenieria 2015 vs 2022</em>
