@@ -2,7 +2,7 @@ Código y visualizaciones creadas para la resolución de la PEC2 de la asignatur
 
 ### Primera imagen
 <p align="center">
-  <img width="100" height="800" src="./BarplotEx1.svg">
+  <img width="1000" height="800" src="./BarplotEx1.svg">
 </p>
 
 
@@ -16,5 +16,5 @@ Código y visualizaciones creadas para la resolución de la PEC2 de la asignatur
 ### Tercera imagen
 
 <p align="center">
-  <img width="100" height="800" src="./WaterFallEx3.svg">
+  <img width="1000" height="800" src="./WaterFallEx3.svg">
 </p>
