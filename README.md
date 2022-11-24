@@ -1,7 +1,10 @@
 Código y visualizaciones creadas para la resolución de la PEC2 de la asignatura Visualización de datos. Clase M2.859
 
 ### Primera imagen
-<img src="./BarplotEx1.svg">
+<p align="center">
+  <img width="460" height="300" src="./BarplotEx1.svg">
+</p>
+
 
 ### Segunda imagen
 <img src="./UnitChartEx2.svg">
