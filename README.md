@@ -7,9 +7,17 @@ Código y visualizaciones creadas para la resolución de la PEC2 de la asignatur
 
 
 ### Segunda imagen
-<img src="./UnitChartEx2.svg">
+
+<p align="center">
+  <img width="460" height="300" src="./UnitChartEx2.svg">
+</p>
+
 
 ### Tercera imagen
-<img src="./WaterFallEx3.svg">
+
+<p align="center">
+  <img width="460" height="300" src="./WaterFallEx3.svg">
+</p>
+
 
 
