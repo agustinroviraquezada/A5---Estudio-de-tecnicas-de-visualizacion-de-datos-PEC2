@@ -1,7 +1,7 @@
 ## A5: Estudio de técnicas de visualización de datos (PEC2)
 Código y visualizaciones creadas para la resolución de la PEC2 de la asignatura Visualización de datos, Clase M2.859, Universidad abierta de Cataluña.
 
-<b>Alumno</b>:Agustín Rovira
+<b>Alumno</b>:Agustín Rovira   
 <b>email</b>: arovirarovi@uoc.edu
 
 <b>Enunciado</b>   
