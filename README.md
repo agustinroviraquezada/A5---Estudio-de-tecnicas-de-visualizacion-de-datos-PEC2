@@ -41,7 +41,7 @@ Para la creación de la figura 2 usamos las librerías de <A HREF="https://altai
 
 
 <p align="center">
-  <img width="850" height="600" src="./UnitChartEx2.svg">
+  <img width="800" height="600" src="./UnitChartEx2.svg">
   <em>Figura 2. Estudiantes de ingenieria 2015 vs 2022</em>
 </p>
 
