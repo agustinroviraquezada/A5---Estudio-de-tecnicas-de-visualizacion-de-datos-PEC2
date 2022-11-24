@@ -25,17 +25,20 @@ Un diagrama de barras, es una forma de representar gráficamente un conjunto de 
 
 Para esta visualizacion usamos el primer dataset, donde obtenemos el numero de nuevos ingresos a carreras cientificas en España a lo largo de los ultimos 6 años. La comparacion se ve que para las 3 principales ramas, donde siempre hay mas profesionales es en el area de la salud con 82.720 ingresos en el 2022 (los datos estan en escala 10<sup>3</sup>).
 
-Para la creacion del data set usamos las librerias de <A HREF="https://plotnine.readthedocs.io/en/stable/#">plotnine</A>, que proporciona una sintaxis parecida a R.
+Para la creacion de la figura 1 usamos las librerias de <A HREF="https://plotnine.readthedocs.io/en/stable/#">plotnine</A>, que proporciona una sintaxis parecida a R.
 
 <p align="center">
   <img width="1000" height="800" src="./BarplotEx1.svg">
-  <em>"Ingresos anuales de estudiantes a grados cientificos en España"</em>
+  <em>Figura 1. Ingresos anuales de estudiantes a grados cientificos en España</em>
 </p>
 
 
 ### Segunda imagen   
 Unit charts/Isotype, los diagramas de isotipos son una combinación de lenguaje visual que enfatiza los datos cuantitativos con un simbolismo que a menudo se asocia con imágenes descriptivas.
 
+Para esta visualización, usamos también el primer dataset. Donde se extrajo el número de estudiantes que ingresaron a una carrera de ingeniería para el año 2015 y el año 2022. Posteriormente separamos ambos grupos por sexo y se calculó el porcentaje de ingresos en cada año. Para hacer más fácil la comparación se expresó el porcentaje en términos de 10 unidades.
+
+Para la creación de la figura 2 usamos las librerías de <A HREF="https://altair-viz.github.io/index.html">Vega-Altair</A>
 
 <p align="center">
   <img width="850" height="600" src="./UnitChartEx2.svg">
