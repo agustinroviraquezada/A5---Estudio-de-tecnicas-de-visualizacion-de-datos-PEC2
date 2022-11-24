@@ -32,7 +32,6 @@ Para la creacion de la figura 1 usamos las librerias de <A HREF="https://plotnin
   <em>Figura 1. Ingresos anuales de estudiantes a grados cientificos en España</em>
 </p>
 
-
 ### Segunda imagen   
 Unit charts/Isotype, los diagramas de isotipos son una combinación de lenguaje visual que enfatiza los datos cuantitativos con un simbolismo que a menudo se asocia con imágenes descriptivas.
 
@@ -44,7 +43,6 @@ Para la creación de la figura 2 usamos las librerías de <A HREF="https://altai
   <img width="850" height="600" src="./UnitChartEx2.svg">
   <em>Figura 2. Estudiantes de ingenieria 2015 vs 2022</em>
 </p>
-
 
 ### Tercera imagen
 Un gráfico de cascada es una forma de visualización de datos que ayuda a comprender el efecto acumulativo al introducir valores positivos o negativos de manera secuencial.
