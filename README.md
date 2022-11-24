@@ -13,7 +13,7 @@ En esta actividad el estudiante  tendrá que crear tres pequeñas visualizacione
 -Waterfall Chart      
  
  
-<b>Solución</b>
+<b>Solución</b>   
 Para la creacion de las visualizaciones se han seleccionados 2 dataset pertenecientes a de <A HREF="https://datos.gob.es/es/">datos abierta del gobierno </A>:
 - <A HREF="https://datos.gob.es/es/catalogo/e05073401-estudiantes-de-nuevo-ingreso-en-grado-por-sexo-grupo-de-edad-y-rama-de-ensenanza">Estudiantes de nuevo ingreso en Grado por sexo, grupo de edad y rama de enseñanza</A>
 - <A HREF="https://datos.gob.es/es/catalogo/ea0010587-gasto-por-codigos-de-gasto-5-digitos-ecoicop-anual-nacional-encuesta-de-presupuestos-familiares-epf-identificador-api-248851">Gasto por códigos de gasto (5 dígitos ECOICOP)</A>
