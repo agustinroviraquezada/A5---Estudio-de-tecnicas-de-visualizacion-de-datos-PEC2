@@ -4,10 +4,10 @@ Código y visualizaciones creadas para la resolución de la PEC2 de la asignatur
 <b>Alumno</b>:Agustín Rovira
 <b>email</b>: arovirarovi@uoc.edu
 
-<b>Enunciado</b>
+<b>Enunciado</b>   
 En esta actividad el estudiante  tendrá que crear tres pequeñas visualizaciones usando técnicas diferentes que le serán asignadas. Cada estudiante tendrá que escoger unos datos idóneos para cada una de las técnicas propuestas y decidir con qué software las crea
 
-<b>Visualizaciones</b>
+<b>Visualizaciones</b>   
 -Bar chart
 -Waterfall Chart
 -Isotype & Unit charts
